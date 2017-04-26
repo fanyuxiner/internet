@@ -1,0 +1,139 @@
+.title{
+	border:1px solid #f2dede;
+	background: #f2dede;
+	padding-bottom: 15px;
+	/*width:1700px;*/
+	/*max-width:100%;*/
+	/*margin-left: 50px;
+	margin-right: 50px;*/
+	border-radius: 5px;
+	margin-bottom: 15px;
+}
+.title h4{
+	color: #a94442;
+	margin-left: 15px;
+}
+.title p{
+	color: #a94442;
+	margin-left: 15px;
+}
+.title .btn{
+	margin-left: 15px;
+}
+.table .list-group-item{
+	color: #337ab7;
+}
+.table .list-group-item b{
+	font-weight: normal;
+}
+.table p{
+	margin-left: 10px;
+	margin-top: 10px;
+}
+.table .progress{
+	margin-left: 10px;
+}
+.table .circle{
+	border:1px solid #ccc;
+}
+.last .media{
+	background: #f5f5f5;
+	border: 1px solid #f3f3f3;
+	padding-left: 15px;
+	padding-bottom: 15px;
+	padding-top: 15px;
+}
+.last .media img{
+	width:64px;
+}
+.last .ri{
+	padding-right: 15px;
+}
+.last .ri h4{
+	text-align: right;
+}
+.last .ri h5{
+	text-align: right;
+}
+.last .list-group-item{
+	color: black;
+}
+.last .panel {
+	margin-top: 15px;
+}
+p{
+	text-align: center;
+}
+.usermain{
+	background: #272b30;
+	padding-top: 10px;
+}
+.usermain .list-group .list-group-item{
+	background: #32383e;
+	color: #c8c8c8;
+	border: 1px solid black;
+}
+.usermain .list-group .active{
+	background: #3e444c;
+	color: white;
+}
+.usermain h4{
+	border-bottom: 1px solid black;
+color: #c8c8c8;
+	font-size: 14px;
+	line-height: 25px;
+}
+.usermain nav  ul  li a{
+	color: white;
+}
+.usermain .table {
+	background: #32383e;
+	
+}
+.usermain .table tr th{
+	background: #32383e;
+	border-bottom: 2px solid black;
+	color: #c8c8c8;
+}
+.usermain .table tr{
+	
+}
+.usermain .table tr td{
+	background: #32383e;
+	border-bottom: 1px solid black;
+	color: #c8c8c8;
+}
+.contentmain h4{
+		border-bottom: 1px solid #dddddd;
+color: black;
+	font-size: 16px;
+	line-height: 25px;
+}
+.addmain h4{
+	border-bottom: 1px solid #dddddd;
+color: black;
+	font-size: 16px;
+	line-height: 25px;
+}
+.page-header h1{
+	margin: 0;
+    font-size: 16px;
+}
+uesr_search{
+    padding: 10px;
+    border: solid 1px #ddd;
+    border-top: none;
+}
+/*tag*/
+.taglist{
+    padding-top: 15px;
+}
+.taglist .alert{
+    margin: 0 15px 15px 0;
+}
+/*footer*/
+footer{
+    font-weight: 400;
+    text-align: center;
+    padding:20px ;
+}
